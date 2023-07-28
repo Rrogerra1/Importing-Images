@@ -1,0 +1,16 @@
+body{
+  background-image: url("https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg"), url("https://www.longislandpress.com/wp-content/uploads/2015/10/supergirl1.jpg");
+background-repeat: no-repeat;
+background-size: 35%, 35%;
+background-position: top right, top center;
+  
+}
+
+#p1{
+  width: 25%;
+
+}
+.c1{
+  display: block;
+  width: 10%;
+}
